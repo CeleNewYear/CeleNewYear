@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am CeleNewYear, a passionate developer and tech enthusiast.
+- 🔭 I’m currently working on tilelang-ascend
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical)
