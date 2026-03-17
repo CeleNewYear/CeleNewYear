@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Nice to meet you👋
 
 <!--
 **CeleNewYear/CeleNewYear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am CeleNewYear, a passionate developer and tech enthusiast.
+I am Gu Xinyang, a passionate developer and tech enthusiast.
 - 🔭 I’m currently working on tilelang-ascend
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical)
