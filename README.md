@@ -9,10 +9,20 @@ A passionate developer building cool things with code.
 
 
 <!-- 4. GitHub 统计卡片（核心） -->
-### 📊 GitHub Stats
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CeleNewYear&theme=radical" alt="GitHub Streak" width="400" />
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- GitHub 核心统计卡片 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&height=200" 
+    alt="GitHub Stats" 
+    width="400"
+    style="border-radius: 8px;"/>
+  
+  <!-- 提交连续天数卡片（强制高度和核心卡片一致） -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CeleNewYear&theme=radical&hide_border=false&height=200" 
+    alt="GitHub Streak" 
+    width="400"
+    style="border-radius: 8px;"/>
 </div>
 
 <!-- 6. 动态打字效果（可选） -->
