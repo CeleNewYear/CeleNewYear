@@ -9,20 +9,18 @@ A passionate developer building cool things with code.
 
 
 <!-- 4. GitHub 统计卡片（核心） -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <!-- GitHub 核心统计卡片 -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&height=200" 
     alt="GitHub Stats" 
     width="400"
-    style="border-radius: 8px;"/>
+    style="border-radius: 8px; object-fit: cover;"/>
   
-  <!-- 提交连续天数卡片（强制高度和核心卡片一致） -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CeleNewYear&theme=radical&hide_border=false&height=200" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CeleNewYear&theme=radical&hide_border=false&height=200&width=400" 
     alt="GitHub Streak" 
     width="400"
-    style="border-radius: 8px;"/>
+    style="border-radius: 8px; object-fit: cover;"/>
 </div>
 
 <!-- 6. 动态打字效果（可选） -->
@@ -33,14 +31,5 @@ A passionate developer building cool things with code.
 
 ---
 
-### 📂 Featured Projects
-- **Project 1**: Brief description of your best project.
-- **Project 2**: Another awesome project you built.
-
 ### 📫 How to reach me
-- Email: 88878364+CeleNewYear@users.noreply.github.com
 - GitHub: [CeleNewYear](https://github.com/CeleNewYear)
-
----
-
-⭐️ From [CeleNewYear](https://github.com/CeleNewYear)
