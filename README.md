@@ -15,10 +15,10 @@ I am Gu Xinyang, a passionate developer and tech enthusiast.
   
 | Metric | Value |
 |--------|-------|
-| **Total Commits** | <img src="https://img.shields.io/badge/loading...-brightgreen?style=flat-square" alt="Loading commits"> |
-| **Lines Added** | <img src="https://img.shields.io/badge/loading...-blue?style=flat-square" alt="Loading additions"> |
-| **Lines Deleted** | <img src="https://img.shields.io/badge/loading...-red?style=flat-square" alt="Loading deletions"> |
-| **Net Contribution** | <img src="https://img.shields.io/badge/loading...-yellow?style=flat-square" alt="Loading net"> |
+| **Total Commits** | <code>$(git log --all --author="88878364+CeleNewYear@users.noreply.github.com" --oneline | wc -l)</code> |
+| **Lines Added** | <code>$(git log --all --author="88878364+CeleNewYear@users.noreply.github.com" --pretty=tformat: --numstat | awk '$1~/^[0-9]+$/ {add+=$1} END {print add}')</code> |
+| **Lines Deleted** | <code>$(git log --all --author="88878364+CeleNewYear@users.noreply.github.com" --pretty=tformat: --numstat | awk '$2~/^[0-9]+$/ {del+=$2} END {print del}')</code> |
+| **Net Contribution** | <code>$(git log --all --author="88878364+CeleNewYear@users.noreply.github.com" --pretty=tformat: --numstat | awk '$1~/^[0-9]+$/ && $2~/^[0-9]+$/ {net+=$1-$2} END {print net}')</code> |
 
 </div>
 
