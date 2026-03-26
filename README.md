@@ -10,11 +10,11 @@ A passionate developer building cool things with code.
 
 <!-- 4. GitHub 统计卡片（核心） -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=CeleNewYear&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&height=200" 
     alt="GitHub Stats" 
     width="400"
-    style="border-radius: 8px; object-fit: cover;"/>
+    style="border-radius: 8px; object-fit: cover;"/> -->
   
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=CeleNewYear&theme=radical&hide_border=false&height=200&width=400" 
